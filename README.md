@@ -51,17 +51,17 @@ Key Features:
 
 ### 1. Clone the Repository
 
-`git clone https://github.com/your-username/your-repo-name.git`  
-`cd your-repo-name`
+```git clone https://github.com/ahmad-meda/RAG-using-Llama3-8b.git```
+```cd RAG-using-Llama3-8b```
 
 ### 2. Install Required Packages
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
-If no `requirements.txt` is provided, install manually:
+If using a jupyter notebook, install using:
 
-`pip install streamlit PyMuPDF langchain faiss-cpu huggingface-hub`  
-`pip install langchain-community langchain-core langchain-groq`
+```pip install streamlit PyMuPDF langchain faiss-cpu huggingface-hub```  
+```pip install langchain-community langchain-core langchain-groq```
 
 ---
 
